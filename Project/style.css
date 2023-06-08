@@ -1,0 +1,21 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery img {
+    width: 500px;
+    height: 500px;
+    margin: 100px;
+    }
+
+.overall img {
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+}
+
+.overall_header h1 {
+    text-align: center;
+}
